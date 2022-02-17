@@ -1,5 +1,7 @@
-Define a target (x,y,z) and randomly create 10 points.
+Randomly create 10 points. (3 dimensional x,y,z)
 
-Then find the closest one to the target by using Manhattan Distance.
+Define a target. (3 dimensional x,y,z)
+
+Then find the closest point to the target by using Manhattan Distance.
 
 Use classes and methods.
